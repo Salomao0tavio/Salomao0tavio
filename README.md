@@ -4,9 +4,6 @@
 
 ### I'm Otávio Salomão Ferreira, student in Software Engineering at PUC Minas. Currently, I'm focused on improving my development skills and seeking opportunities to apply my knowledge.
 
-![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salomao0tavio&show_icons=true&theme=transparent)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Salomao0tavio&layout=compact&theme=transparent)
-
 ## My Stack
 
 ### Technologies ans Softwares
@@ -17,9 +14,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Learning 
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ## Contact
 - 📧 Email: [otavio.ferreira.mds@gmail.com](mailto:otavio.ferreira.mds@gmail.com)
 - 🔗 LinkedIn: [Otávio Salomão Ferreira](https://www.linkedin.com/in/ot%C3%A1vio-salomao-ferreira-b8824226a/)
